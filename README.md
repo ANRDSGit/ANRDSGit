@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anrds.git@gmail.com**
 
-- ⚡ Fun fact **I play League (of Legends)**
+- ⚡ Fun fact **I play Team Fight Tactics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
