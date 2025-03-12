@@ -1,7 +1,10 @@
 <!-- Futuristic GitHub Profile for A.N.R. de Silva -->
 <!-- Animation: Neon-lit coding GIF sets the sci-fi tone -->
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYng4amJkY2J3ZnJ1cTl2dmFhM3o4NGd3M212YXh6dnYzM3NqbXlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anrdsgit&label=Profile%20views&color=0e75b6&style=flat" alt="anrdsgit" /> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d08d7a6-eaa1-4742-87ed-cf70d50994a5" alt="Coding Animation"/>
+</p>
+  
 <!-- Main Header: Cyberpunk-style greeting -->
 <h1 align="center">Greetings, Traveler 👾 I’m A.N.R. de Silva</h1>
 <h3 align="center">Code Architect of the Future | Full-Stack Cybernaught</h3>
@@ -9,6 +12,7 @@
 <h3 align="center">A galactic coder merging tech and strategy in a neon-lit universe.</h3>
 
 ---
+
 
 <!-- About Section: Styled as a futuristic protocol -->
 ### 🔮 IDENTITY PROTOCOL:
@@ -35,7 +39,10 @@
 
 <!-- Creative Section: Terminal-style code block -->
 ### 🌠 CYBERSPACE CORE:
-
+- **Designing scalable web and desktop applications**
+- **Solving complex challenges with clean, efficient code**
+- **Integrating creativity with technical precision**
+- **Committed to continuous learning and innovation**
 
 ---
 
@@ -65,10 +72,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anrdsgit&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anrdsgit&theme=radical&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak">
 </p>
 
 ---
