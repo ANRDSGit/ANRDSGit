@@ -23,12 +23,7 @@
 - **COMMS LINK**: Signal me at **anrds.git@gmail.com**
 - **NEURAL NET**: Fun Fact - **I strategize in Team Fight Tactics like a galactic commander!**
 
-<!-- Profile Views: Renamed to "System Scans" for theme -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=anrdsgit&label=System%20Scans&color=6&pretty=false" />
-  </a>
-</p>
+
 
 <!-- Call to Action: Neon-colored link -->
 <h1 align="center">
