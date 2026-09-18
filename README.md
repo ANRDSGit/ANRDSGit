@@ -1,8 +1,13 @@
 <div align="center">
 
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=A.N.R.%20de%20Silva&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Code%20Architect&descAlignY=62&descSize=18&theme=tokyonight" width="100%" alt="Header Banner" />
+
+  <br>
+
   <!-- Dynamic Typing SVG Banner -->
   <a href="https://github.com/anrdsgit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=650&height=70&lines=Hello+World!+I'm+A.N.R.+de+Silva+👾;Full-Stack+Software+Engineer+⚡;Web+%26+Desktop+App+Architect+🚀;Bridging+Creativity+%26+Clean+Architecture+🌌" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Desktop+%26+Web+App+Architect;Crafting+Scalable+%26+Modern+Systems;Tech+Strategist+%26+Lifelong+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -91,15 +96,15 @@ identity:
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=anrdsgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=ANRDSGit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrdsgit&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&langs_count=8" width="100%" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANRDSGit&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&langs_count=8" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anrdsgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANRDSGit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
