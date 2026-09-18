@@ -1,84 +1,132 @@
-<!-- Futuristic GitHub Profile for A.N.R. de Silva -->
-<!-- Animation: Neon-lit coding GIF sets the sci-fi tone -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anrdsgit&label=Profile%20views&color=0e75b6&style=flat" alt="anrdsgit" /> </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d08d7a6-eaa1-4742-87ed-cf70d50994a5" alt="Coding Animation"/>
-</p>
-  
-<!-- Main Header: Cyberpunk-style greeting -->
-<h1 align="center">Greetings, Traveler 👾 I’m A.N.R. de Silva</h1>
-<h3 align="center">Code Architect of the Future | Full-Stack Cybernaught</h3>
-<h3 align="center">🌌 Transmitting innovation from the digital cosmos</h3>
-<h3 align="center">A galactic coder merging tech and strategy in a neon-lit universe.</h3>
+<div align="center">
+
+  <!-- Dynamic Typing SVG Banner -->
+  <a href="https://github.com/anrdsgit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=650&height=70&lines=Hello+World!+I'm+A.N.R.+de+Silva+👾;Full-Stack+Software+Engineer+⚡;Web+%26+Desktop+App+Architect+🚀;Bridging+Creativity+%26+Clean+Architecture+🌌" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>Crafting scalable, high-performance web and desktop systems with modern architecture.</b>
+  </p>
+
+  <!-- Profile Badges & Stats Overview -->
+  <p align="center">
+    <a href="https://github.com/anrdsgit">
+      <img src="https://komarev.com/ghpvc/?username=anrdsgit&style=flat-square&color=00f5d4&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/anrdsgit?tab=followers">
+      <img src="https://img.shields.io/github/followers/anrdsgit?label=Followers&style=flat-square&color=7928CA&logo=github" alt="Followers" />
+    </a>
+    <a href="https://linkedin.com/in/nipun-rasanjana">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Connect" />
+    </a>
+    <a href="mailto:anrds.git@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
+### 💫 About Me
 
-<!-- About Section: Styled as a futuristic protocol -->
-### 🔮 IDENTITY PROTOCOL:
-- **MISSION**: Engineering cutting-edge solutions in a boundless digital frontier
-- **UPGRADING**: Enhancing skills in **React Native** and **TypeScript**
-- **DATABASE**: Explore my constructs on [GitHub](https://github.com/anrdsgit)
-- **TRANSMISSIONS**: Broadcasting insights via [LinkedIn](https://linkedin.com/in/nipun-rasanjana-aa3393300)
-- **COMMS LINK**: Signal me at **anrds.git@gmail.com**
-- **NEURAL NET**: Fun Fact - **I strategize in Team Fight Tactics like a galactic commander!**
+```yaml
+identity:
+  name: A.N.R. de Silva (Nipun Rasanjana)
+  role: Full-Stack Engineer & Solutions Architect
+  focus: Scalable Web & Desktop Ecosystems
+  current_quest: Mastering React Native & Advanced TypeScript
+  core_philosophy: "Clean code, responsive design & uncompromising performance"
+  hobbies: [Strategy Gaming, Open-Source Exploring, UI/UX Crafting]
+```
 
-
-
-<!-- Call to Action: Neon-colored link -->
-<h1 align="center">
-  <a href="https://linkedin.com/in/nipun-rasanjana" target="_blank" style="text-decoration: none; color: #00ffcc;">ENTER THE NETWORK</a>
-</h1>
-
----
-
-<!-- Creative Section: Terminal-style code block -->
-### 🌠 CYBERSPACE CORE:
-- **Designing scalable web and desktop applications**
-- **Solving complex challenges with clean, efficient code**
-- **Integrating creativity with technical precision**
-- **Committed to continuous learning and innovation**
+- 🔭 **Currently Building**: Next-generation web applications & robust desktop systems.
+- 💡 **Specialties**: Full-stack web development, cross-platform desktop applications (Electron), and database optimization.
+- 🌱 **Continuous Learning**: Cloud-native architectures, micro-frontends, and mobile development.
+- 💬 **Ask me about**: JavaScript/TypeScript ecosystems, React, Node.js, C#, PHP, MySQL, and Modern UI/UX design.
+- ⚡ **Fun Fact**: I analyze game dynamics in *Teamfight Tactics* with the same strategic mindset I bring to software architecture!
 
 ---
 
-<!-- Social Links: Glowing LinkedIn icon -->
-### 🔗 NEURAL CONNECTIONS:
-<p align="center">
-  <a href="https://linkedin.com/in/nipun-rasanjana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ffcc);"/></a>
-</p>
+### 🛠️ Tech Stack & Arsenal
 
----
+<div align="center">
 
-<!-- Skills: Dark-themed icons for a futuristic look -->
-### ⚡️ ARSENAL OF THE FUTURE:
+#### 🌐 Languages & Scripting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,electron,mongodb,mysql,firebase,android,c,cpp,csharp,php,python,tailwind,bootstrap,postman,typescript,webpack&theme=dark&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=typescript,js,python,c,cpp,cs,php,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
 
----
-
-<!-- Stats: Radical theme with neon accents -->
-### 📡 SYSTEM DIAGNOSTICS:
+#### ⚛️ Frameworks & Libraries
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrdsgit&theme=radical&layout=compact&langs_count=10&hide_border=true&count_private=true&bg_color=0D1117&title_color=00ffcc&text_color=ffffff" alt="Top Languages">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,electron,tailwind,bootstrap&theme=dark" alt="Frameworks" />
+  </a>
 </p>
 
+#### 🗄️ Databases & Cloud Services
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anrdsgit&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" alt="GitHub Stats">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark" alt="Databases" />
+  </a>
 </p>
 
----
+#### 🧰 Developer Tools & Workflow
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,androidstudio&theme=dark" alt="Dev Tools" />
+  </a>
+</p>
 
-<!-- Footer: Inspirational sci-fi closing -->
-<div align="center">
-  <strong>CODE THE FUTURE 🌃 Join me in the digital expanse!</strong>
 </div>
 
-<!-- INSTRUCTIONS: 
-   1. Save this as README.md in a repo named 'anrdsgit' (your username).
-   2. Replace 'anrdsgit' if your GitHub username differs.
-   3. Customize the GIF or colors (#00ffcc) as desired.
-   4. Add more social links in 'NEURAL CONNECTIONS' if needed.
--->
+---
+
+### 📊 GitHub Diagnostics & Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=anrdsgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrdsgit&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anrdsgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🌐 Connect & Collaborate
+
+<div align="center">
+  <p>Let's collaborate on ambitious projects or chat about tech, software architecture, and innovation!</p>
+
+  <a href="https://linkedin.com/in/nipun-rasanjana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:anrds.git@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anrdsgit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Designed with ⚡ by <a href="https://github.com/anrdsgit">A.N.R. de Silva</a> • Continuous Innovation</sub>
+</div>
